@@ -1,0 +1,46 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="XZg7io51c2kKgS36CkQU">
+    <mxGraphModel dx="1880" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EJGSBLU2-GabjI9fQG3f-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Person" vertex="1">
+          <mxGeometry height="60" width="130" x="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EJGSBLU2-GabjI9fQG3f-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Product" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EJGSBLU2-GabjI9fQG3f-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Invoice" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="EJGSBLU2-GabjI9fQG3f-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User" vertex="1">
+          <mxGeometry height="60" width="120" x="230" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="EJGSBLU2-GabjI9fQG3f-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Admin" vertex="1">
+          <mxGeometry height="60" width="120" x="-140" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="EJGSBLU2-GabjI9fQG3f-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Person_Role" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EJGSBLU2-GabjI9fQG3f-9" edge="1" parent="1" source="EJGSBLU2-GabjI9fQG3f-6" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EJGSBLU2-GabjI9fQG3f-7" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="-140" y="260" as="sourcePoint" />
+            <mxPoint x="40" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJGSBLU2-GabjI9fQG3f-10" edge="1" parent="1" source="EJGSBLU2-GabjI9fQG3f-7" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="EJGSBLU2-GabjI9fQG3f-5" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="270" y="250" as="sourcePoint" />
+            <mxPoint x="370" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EJGSBLU2-GabjI9fQG3f-11" edge="1" parent="1" source="EJGSBLU2-GabjI9fQG3f-7" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0.591;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="EJGSBLU2-GabjI9fQG3f-2" value="">
+          <mxGeometry height="100" relative="1" width="100" as="geometry">
+            <mxPoint x="60" y="200" as="sourcePoint" />
+            <mxPoint x="160" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

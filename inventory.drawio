@@ -1,0 +1,16 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="ykSqmzAIuMnSzNrnMKXq">
+    <mxGraphModel dx="1016" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5Sud3pH0eXJPh9BZEU4F-1" parent="1" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" value="products" vertex="1">
+          <mxGeometry height="140" width="160" x="345" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="5Sud3pH0eXJPh9BZEU4F-2" parent="5Sud3pH0eXJPh9BZEU4F-1" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" value="product_id&lt;div&gt;product_name&lt;/div&gt;&lt;div&gt;product_category&lt;/div&gt;&lt;div&gt;product_quantity&lt;/div&gt;&lt;div&gt;product_price&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="160" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
